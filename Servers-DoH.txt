@@ -38,7 +38,6 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
-adg.khon.dev
 adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
@@ -1470,3 +1469,15 @@ zero.dns0.eu
 zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
+2606:4700:3030::6815:4001  #adg.khon.dev
+2606:4700:3030::6815:5001  #adg.khon.dev
+2606:4700:3030::6815:1001  #adg.khon.dev
+2606:4700:3030::6815:2001  #adg.khon.dev
+2606:4700:3030::6815:6001  #adg.khon.dev
+2606:4700:3030::6815:7001  #adg.khon.dev
+2606:4700:3030::6815:3001  #adg.khon.dev
+104.21.48.1    #adg.khon.dev
+104.21.80.1    #adg.khon.dev
+104.21.96.1    #adg.khon.dev
+104.21.32.1    #adg.khon.dev
+104.21.16.1    #adg.khon.dev
